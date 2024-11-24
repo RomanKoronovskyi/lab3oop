@@ -1,0 +1,13 @@
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\bin\Debug\lab3.exe.config
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\bin\Debug\lab3.exe
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\bin\Debug\lab3.pdb
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.exe
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.pdb
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.csproj.Up2Date
+C:\Users\korus\OneDrive\Робочий стіл\универ\2 курс\ооп\lab3\obj\Debug\lab3.Form1.resources
